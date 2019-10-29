@@ -40,7 +40,7 @@ Information has been scraped from the following websites:
     <li>www.wikipedia.com for nutritional information</li>
 </ul>
 
-as well as ```Table08.csv``` (Table 8--U.S. fresh asparagus: Supply, utilization, and price, farm weight, 1960-2010) sourced from the USDA-ERS AsparagusStats2010.pdf.
+as well as ```Table08.csv``` (Table 8--U.S. fresh asparagus: Supply, utilization, and price, farm weight, 1960-2010) sourced from the USDA-ERS ```AsparagusStats2010.pdf```.
 
 
 
