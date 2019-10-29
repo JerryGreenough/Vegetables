@@ -20,9 +20,12 @@ Prior to the loading phase, a number of charts a produced using the ```matplotli
 </p>
 
 <p align="center">
-    <img src="./Asparagus_Consumption.png" width="400" height="400">  
+    <img src="./Asparagus_Production.png" width="400" height="400">  
 </p>
 
+<p align="center">
+    <strong>Asparagus Production since 1961</strong>
+</p>
 
 
 
