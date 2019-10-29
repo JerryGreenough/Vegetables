@@ -8,13 +8,20 @@ A demonstration of ETL (Extract-Transform-Load) techniques that have been used t
 </ul>
 
 <p>
-Each of the above areas is represented by a Jupyter Notebook containing Python code that performs ETL operations that culminate in the population of a MongoDB Database. The extraction phase for each area of interest involves web-scraping and data processing using Python libraries such as Pandas, Beautiful Soup as well as the Python ```requests``` library. The Pandas library is also used for data transformation. </p>
+    
+Each of the above areas is represented by a Jupyter Notebook containing Python code that performs ETL operations that culminate in the population of a MongoDB Database. The extraction phase for each area of interest involves web-scraping and data processing using Python libraries such as Pandas, Beautiful Soup as well as the Python ```requests``` library. The Pandas library is also used for data transformation. 
+
+</p>
+
 <p>
+    
 Prior to the loading phase, a number of charts a produced using the ```matplotlib``` Python library. Loading of the MongoDB database is achieved programmatically with Python by using the ```pymongo``` library.
+
 </p>
 
 <h2>Web-scraping</h2>
 Information has been scraped from the following websites:
+<br>
 <ul>
     <li>www.allrecipes.com for recipes</li>
     <li>www.simplyrecipes.com for recipes</li>
