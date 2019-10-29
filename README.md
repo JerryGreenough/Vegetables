@@ -2,7 +2,7 @@
 A demonstration of ETL (Extract-Transform-Load) techniques that have been used to acquire information concerning vegetables. Investigations have been conducted into three areas: 
 
 <ul>
-    <li>Production & consumption of vegetables,</li>
+    <li>Consumption & Production of vegetables,</li>
     <li>Nutritional value of vegetables,</li>
     <li>Recipes that use vegetables.</li>
 </ul>
