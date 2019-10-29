@@ -42,5 +42,16 @@ Information has been scraped from the following websites:
 
 as well as ```Table08.csv``` (Table 8--U.S. fresh asparagus: Supply, utilization, and price, farm weight, 1960-2010) sourced from the USDA-ERS ```AsparagusStats2010.pdf```.
 
+<h2>Observations</h2>
+<p>The following chart depicts US per capita consumption of asparagus since 1961.</p>
 
+<p align="center">
+    <img src="./Asparagus_Cosumption.png" width="400" height="267">  
+</p>
+
+<p>The following chart indicates that magnesium defficiency might be treated by a diet that is rich in spinach !</p> 
+
+<p align="center">
+    <img src="./Magnesium_Content.png" width="400" height="300">  
+</p>
 
