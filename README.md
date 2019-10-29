@@ -2,15 +2,28 @@
 A demonstration of ETL (Extract-Transform-Load) techniques that have been used to acquire information concerning vegetables. Investigations have been conducted into three areas: 
 
 <ul>
-    <li>(i) Production & consumption of vegetables,</li>
-    <li>(ii) Nutritional value of vegetables,</li>
-    <li>(iii) Recipes that use vegetables.</li>
+    <li>Production & consumption of vegetables,</li>
+    <li>Nutritional value of vegetables,</li>
+    <li>Recipes that use vegetables.</li>
 </ul>
 
-<br>
-
-Each of the above areas is represented by a Jupyter Notebook containing Python code that performs ETL operations that culminate in the population of a MongoDB Database. The extraction phase for each area of interest involves web-scraping and data processing using Python libraries such as Pandas, Beautiful Soup as well as the Python ```requests``` library. The Pandas library is also used for data transformation. 
-
-<br>
-
+<p>
+Each of the above areas is represented by a Jupyter Notebook containing Python code that performs ETL operations that culminate in the population of a MongoDB Database. The extraction phase for each area of interest involves web-scraping and data processing using Python libraries such as Pandas, Beautiful Soup as well as the Python ```requests``` library. The Pandas library is also used for data transformation. </p>
+<p>
 Prior to the loading phase, a number of charts a produced using the ```matplotlib``` Python library. Loading of the MongoDB database is achieved programmatically with Python by using the ```pymongo``` library.
+</p>
+
+<h2>Web-scraping</h2>
+Information has been scraped from the following websites:
+<ul>
+    <li>www.allrecipes.com for recipes</li>
+    <li>www.simplyrecipes.com for recipes</li>
+    <li>www.statista.com for information on the production of asparagus in 2017</li>
+    <li>www.factfish.com for information on the world-wide production of all vegetables</li>  
+    <li>www.wikipedia.com for nutritional information</li>
+</ul>
+
+as well as ```Table08.csv``` (Table 8--U.S. fresh asparagus: Supply, utilization, and price, farm weight, 1960-2010) sourced from the USDA-ERS AsparagusStats2010.pdf.
+
+
+
